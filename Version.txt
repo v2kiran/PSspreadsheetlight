@@ -1,0 +1,10 @@
+
+VERSION 0.2
+###############
+Added 2 CMDLETS:
+
+*Show-SLColumn*
+    - Show columns that are hidden
+
+*Show-SLRow*
+    - Show rows that are hidden
